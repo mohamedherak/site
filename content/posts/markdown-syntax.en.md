@@ -72,7 +72,7 @@ in-line changes such as annotations and abbreviations.
 Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
     Name | Age
--------- |------
+---------|------
  Mohamed | 27
   Alice  | 23
 
